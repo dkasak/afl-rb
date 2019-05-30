@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "fdsfd",
+    "owner": "fdsfdsf",
+    "description": "dsfdsfds"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "fdsd",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
